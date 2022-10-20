@@ -28,6 +28,8 @@ ORDER BY emp_no ASC, to_date DESC;
 Select * FROM unique_titles
 
 -- to retrieve the number of employees by their most recent job title who are about to retire.
+DROP TABLE IF EXISTS retiring_titles;
+
 SELECT COUNT(ut.title),
 ut.title
 Into retiring_titles
