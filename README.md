@@ -49,3 +49,4 @@ o	**Two additional queries or tables that may provide more insight into the upco
 - It would be beneficial to run a query to get information on the potential suitable employees who would be suitable for being a mentee.
 
 - A query should be prepared to get the accurate information on the number of employees interested to continue in the workforce as a part-timer and mentor the junior staff. It would enable the organization to plan the manpower and plan the recruitment process accordingly, so that the new hires are not lost in the onboarding process to the new position without a mentor.
+
